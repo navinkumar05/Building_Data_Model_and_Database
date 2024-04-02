@@ -62,3 +62,25 @@ Organizes data into one or more tables of columns and rows, with a unique key id
 - Need horizontal scalability
 
 ## Exercise 1 - Creating Tables in Postgres using python
+
+### postgres shell commands
+
+<img src ="/attachments/psql_cli.png" width=600>
+
+| Command            | Description                             |
+| ------------------ | --------------------------------------- |
+| `\l`               | List all databases                      |
+| `\q`               | Close the current database connection   |
+| `\dt`              | List all tables in the current database |
+| `\c database_name` | Connect to a specific database          |
+
+## Reference
+
+- [Data Modeling Tutorial | Data Modeling for Data Warehousing | Data Warehousing Tutorial | Edureka](https://www.youtube.com/watch?v=acNmHwl9iPs)
+- [Guru99](https://www.guru99.com/data-modelling-conceptual-logical.html)
+
+🎯  Get Data Set For Project\
+👉 [opendata.aws](https://registry.opendata.aws/)\
+👉 [dataset search](https://datasetsearch.research.google.com/)\
+👉 [UCI Dataset](https://archive.ics.uci.edu/datasets)\
+👉 [kaggle](https://www.kaggle.com/datasets)
