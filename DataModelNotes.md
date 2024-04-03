@@ -70,12 +70,14 @@ refer - [1_working_with_postgresDB_through_python.ipynb](1_working_with_postgres
 <img src ="attachments/psql_cli.png"></br>
 
 
-| Command            | Description                             |
-| ------------------ | --------------------------------------- |
-| `\l`               | List all databases                      |
-| `\q`               | Close the current database connection   |
-| `\dt`              | List all tables in the current database |
-| `\c database_name` | Connect to a specific database          |
+| Command                      | Description                             |
+| ---------------------------- | --------------------------------------- |
+| `\l`                         | List all databases                      |
+| `\q`                         | Close the current database connection   |
+| `\dt`                        | List all tables in the current database |
+| `\c database_name`           | Connect to a specific database          |
+| `\d schemaName."tableName";` | Describe the table                      |
+| `\dn`                        | List the schema in current database     |
 
 ## Reference
 
