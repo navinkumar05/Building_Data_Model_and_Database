@@ -63,9 +63,12 @@ Organizes data into one or more tables of columns and rows, with a unique key id
 
 ## Exercise 1 - Creating Tables in Postgres using python
 
+refer - [1_working_with_postgresDB_through_python.ipynb](1_working_with_postgresDB_through_python.ipynb)
+
 ### postgres shell commands
 
-<img src ="/attachments/psql_cli.png" width=600>
+<img src ="attachments/psql_cli.png"></br>
+
 
 | Command            | Description                             |
 | ------------------ | --------------------------------------- |
