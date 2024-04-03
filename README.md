@@ -2,6 +2,12 @@
 
 POC- Practice Building Data Model and Database
 
+# Tools
+- Postgres
+- Python
+  - Pandas
+  - sqlalchemy
+
 # Agenda
 [DataModelNotes.md](DataModelNotes.md)
 - Basics Data Models
@@ -18,7 +24,7 @@ POC- Practice Building Data Model and Database
 - Building a data model then deploying the data model into the database. using python with `pandas` and `sqlalchemy`
 
 ## Reference
-
+- [Data Engineering Project Portfolio](https://www.youtube.com/playlist?list=PLBJe2dFI4sgukOW6O0B-OVyX9c6fQKJ2N)
 - [Data Modeling Tutorial | Data Modeling for Data Warehousing | Data Warehousing Tutorial | Edureka](https://www.youtube.com/watch?v=acNmHwl9iPs)
 - [Guru99](https://www.guru99.com/data-modelling-conceptual-logical.html)
 
